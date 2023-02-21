@@ -1,0 +1,44 @@
+The QAD Enterprise Platform allows developers to easily extend the Web UI using low-code/no-code functionality. 
+The first step in extending the Web UI is creating an app to store your data.
+
+Apps
+
+With the Apps view, you can view, create, and edit apps and app dependencies
+
+App Registration
+
+Apps that will be shared with others and included in environments with other shared apps must be registered with QAD so that they have a unique app registration code.
+
+How to Register App
+
+Click New: 
+Click New to access the Apps form.
+
+App
+
+Enter the app name. This represents the logical name of the app.
+App URI
+
+The app URI is based on the environment namespace and the app name.
+The format of the URI is: urn.app.environment_namespace.app_name.
+
+App Label
+
+Enter the display label for the app.
+
+Description
+
+Enter a brief description of the app.
+
+Released
+
+Indicate whether an app is released. Releasing an app cannot be undone. 
+Once you select and save this checkbox, both the Released checkbox and the App Registration Code field become disabled.
+
+App Registration Code
+
+Click Register App to register your app with QAD. Apps that will be shared with others and included in environments 
+with other shared apps must be registered with QAD so that they have a unique app registration code
+
+
+
